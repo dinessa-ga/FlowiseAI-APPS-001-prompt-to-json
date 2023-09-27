@@ -2,6 +2,7 @@
 
 ## Índice
 
+
 - [1. Consideraciones generales](#1-consideraciones-generales)
 - [2. Preámbulo](#2-preámbulo)
 - [3. Resumen del proyecto](#3-resumen-del-proyecto)
